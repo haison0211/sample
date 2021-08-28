@@ -3,3 +3,6 @@ fasd
 f
 asdf
 sas
+
+
+dcm m tao sua roi
